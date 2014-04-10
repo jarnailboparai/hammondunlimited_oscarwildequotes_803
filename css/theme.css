@@ -142,16 +142,21 @@
 
 }
 
+@media (min-width: 400px) {
 .theme_bg
 {
-	background-image:none;
+	background-image:url(../images/app803land.png) ;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(left , rgba(251, 251, 251, 0.99) 1% , rgb(244, 65, 166) 44% , rgb(255, 255, 255) 80%);
-background: -o-linear-gradient(left , rgba(251, 251, 251, 0.99) 1% , rgb(244, 65, 166) 44% , rgb(255, 255, 255) 80%);
-background: -ms-linear-gradient(left , rgba(251, 251, 251, 0.99) 1% , rgb(244, 65, 166) 44% , rgb(255, 255, 255) 80%);
-background: -moz-linear-gradient(left , rgba(251, 251, 251, 0.99) 1% , rgb(244, 65, 166) 44% , rgb(255, 255, 255) 80%);
-background: -webkit-linear-gradient(left , rgba(251, 251, 251, 0.99) 1% , rgb(244, 65, 166) 44% , rgb(255, 255, 255) 80%);
+}
+}
+@media (min-width: 100px) and (max-width: 399px) {
+.theme_bg
+{
+	background-image:url(../images/app803port.png) ;
+	background-repeat:no-repeat;
+	background-size:cover;	
+}
 }
 
 
