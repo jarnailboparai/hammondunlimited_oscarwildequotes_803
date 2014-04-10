@@ -142,17 +142,6 @@
 
 }
 
-.theme_bg
-{
-	background-image:none;
-	background-repeat:no-repeat;
-	background-size:cover;	
-	background: linear-gradient(left , rgba(253, 253, 253, 0.82) 1% , rgba(255, 255, 255, 0.68) 80%);
-background: -o-linear-gradient(left , rgba(253, 253, 253, 0.82) 1% , rgba(255, 255, 255, 0.68) 80%);
-background: -ms-linear-gradient(left , rgba(253, 253, 253, 0.82) 1% , rgba(255, 255, 255, 0.68) 80%);
-background: -moz-linear-gradient(left , rgba(253, 253, 253, 0.82) 1% , rgba(255, 255, 255, 0.68) 80%);
-background: -webkit-linear-gradient(left , rgba(253, 253, 253, 0.82) 1% , rgba(255, 255, 255, 0.68) 80%);
-}
 
 
 
